@@ -28,7 +28,7 @@ Fortalecer os fundamentos técnicos para evoluir de um profissional que utiliza 
 
 ### Fundamentos
 
-* [ ] Variáveis e tipos
+* [x] Variáveis e tipos
 * [ ] Funções
 * [ ] Classes e Orientação a Objetos
 * [ ] Tratamento de exceções
