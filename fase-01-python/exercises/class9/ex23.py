@@ -1,3 +1,6 @@
-numero = input('Digite um numero: ')
-for x in numero:
-    print(x)
+numero = int(input('Digite um numero: '))
+u = numero // 1 % 10
+d = numero // 10 % 10
+c = numero // 100 % 10
+m = numero // 1000 % 10
+print('Unidade = {}, Dezena = {}, Centena = {}, Milhar = {}'.format(u, d, c, m))

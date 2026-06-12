@@ -1,2 +1,2 @@
 cidade = str(input('Digite a cidade: ')).lstrip()
-print(cidade.upper().find('SANTO'))
+print(cidade[:5].upper() == 'SANTO')
