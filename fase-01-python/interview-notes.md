@@ -38,17 +38,22 @@ replace -> substitui algo na string por outra coisa que você digitar
 -1
 
 # O que é uma condição em programação?
-
-# Qual a diferença entre = e ==?
+São diferentes caminhos que o programa pode ou não seguir. São definidos por if ou else, e só um deles será seguido.
 
 # Qual a diferença entre if, elif e else?
+if é uma condição. elif é acionado quando a condição do if é falsa, e adiciona outra condição. else é acionado quando a condição, seja do if ou do elif ou dos dois, são falsas
 
 # Para que serve a indentação em Python?
+são blocos de codigos que dependendo da sua posição, vao indicar se estao dentro de uma condição ou nao. se estiver dentro de um if, estara mais para a direita, se nao vai ficar totalmente colado a esquerda.
 
 # Qual a diferença entre and e or?
+and é um operador lógico que exige que todas as condições sejam verdadeiras. or é é um operador lógico que exige que apenas uma a condição seja verdadeiras.
 
 # O que o operador not faz?
+operador de negação. se uma condição seria verdadeira, e entraria num if, se ela tem o not antes, sera falsa e ira para o else.
 
 # O que acontece se uma condição do if for True?
+o codigo identado no if sera executado
 
 # O que acontece se nenhuma condição de um if/elif for True?
+nada acontece. se tiver um else, a condição identada no else sera executada.

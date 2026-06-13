@@ -23,13 +23,13 @@ Entregas:
 Status: Em andamento
 
 Aulas estudadas:
-- [ ] Aula 10 - Condições Parte 1
-- [ ] Aula 11 - Cores no Terminal
+- [x] Aula 10 - Condições Parte 1
+- [x] Aula 11 - Cores no Terminal
 
 Entregas:
-- [ ] Notas da aula 10
-- [ ] Exercícios Guanabara
-- [ ] Projeto validador-acesso
-- [ ] Interview notes
-- [ ] Revisão técnica respondida
-- [ ] Validação final do entendimento
+- [x] Notas da aula 10
+- [x] Exercícios Guanabara
+- [x] Projeto validador-acesso
+- [x] Interview notes
+- [x] Revisão técnica respondida
+- [x] Validação final do entendimento
