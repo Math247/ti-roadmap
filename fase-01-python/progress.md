@@ -17,3 +17,19 @@ Entregas:
 - [x] Interview notes
 - [x] Revisão técnica respondida
 - [x] Validação final do entendimento
+
+## Estágio 2 - Condições e Tomada de Decisão
+
+Status: Em andamento
+
+Aulas estudadas:
+- [ ] Aula 10 - Condições Parte 1
+- [ ] Aula 11 - Cores no Terminal
+
+Entregas:
+- [ ] Notas da aula 10
+- [ ] Exercícios Guanabara
+- [ ] Projeto validador-acesso
+- [ ] Interview notes
+- [ ] Revisão técnica respondida
+- [ ] Validação final do entendimento

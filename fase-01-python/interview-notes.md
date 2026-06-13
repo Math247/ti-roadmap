@@ -36,3 +36,19 @@ replace -> substitui algo na string por outra coisa que você digitar
 
 # O que find() retorna quando não encontra o texto?
 -1
+
+# O que é uma condição em programação?
+
+# Qual a diferença entre = e ==?
+
+# Qual a diferença entre if, elif e else?
+
+# Para que serve a indentação em Python?
+
+# Qual a diferença entre and e or?
+
+# O que o operador not faz?
+
+# O que acontece se uma condição do if for True?
+
+# O que acontece se nenhuma condição de um if/elif for True?
