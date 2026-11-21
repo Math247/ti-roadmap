@@ -1,0 +1,4 @@
+anotacoes/privado/
+.env
+*.pem
+.DS_Store
